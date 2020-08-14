@@ -31,6 +31,16 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Git and GitHub: Gitting Started with Git](https://dev.to/j3ffh95/gigitty-git-2l18)
+<!-- BLOG-POST-LIST:END -->
+
+
+
 [website]: https://www.jeffhuisa.com/
 [twitter]: https://twitter.com/j3ffh95
 [instagram]: https://www.instagram.com/jhvalencia95/
