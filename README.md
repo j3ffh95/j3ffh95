@@ -42,12 +42,10 @@
 ---
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
+
+  :zap: Github Stats
 
   <img align="left" alt="J3ffh95's Github Stats" src="https://github-readme-stats.vercel.app/api?username=j3ffh95&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [website]: https://www.jeffhuisa.com/
