@@ -57,7 +57,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="J3ffh95's Github Stats" src="https://github-readme-stats.j3ffh95.vercel.app/api?username=j3ffh95&show_icons=true&hide_border=true" />
+  <img align="left" alt="J3ffh95's Github Stats" src="https://github-readme-stats.vercel.app/api?username=j3ffh95&show_icons=true&hide_border=true" />
 
 </details>
 
