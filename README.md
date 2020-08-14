@@ -2,7 +2,7 @@
 
 ## I'm a Student learning to be a developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on my [Website][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love soccer ⚽️ and also to eat 🍔
