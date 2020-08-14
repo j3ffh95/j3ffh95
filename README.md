@@ -1,6 +1,6 @@
 ### Hi there, I'm Jeff  👋
 
-## I'm a Student learning to be a developer!
+## I'm a Software/Web Developer!
 
 - 🔭 I’m currently working on my [Website][website]!
 - 🌱 I’m currently learning everything 🤣
