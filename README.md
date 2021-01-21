@@ -25,8 +25,7 @@
 <img title="Node JS" align="left" alt="Node.js" width="26px" src="https://camo.githubusercontent.com/48c9507b62d83559dc3aef4f3951293b15ab2f5fa1029bdf6ec42f9fa062e775/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667" />
 <img title="Mongo DB" align="left" alt="MongoDB" width="26px" src="https://camo.githubusercontent.com/e643754982a9dba595811285c08c4667f1062a17d9e7eca8dd16b43995bf372b/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667" />
 <img title="Git" align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img title="Github" align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img title="Terminal" align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img title="Terminal" align="left" alt="Terminal" width="26px" src="https://camo.githubusercontent.com/c994f99958731f1dc803e2f9cb5bcd52a6a7cf95322cc7543e0c694abc4bd819/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f676e755f626173682d69636f6e2e737667" />
 <img title="JQuery" align="left" alt="JQuery" width="26px" src="https://thumbnail.imgbin.com/20/3/19/imgbin-jquery-web-development-ajax-event-php-ajax-3VsUk04FvFf0jvNPXUeACp0yG_t.jpg" />
 <br />
 <br />
