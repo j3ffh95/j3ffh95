@@ -59,7 +59,7 @@
   <img align="left" alt="J3ffh95's Github Stats" src="https://github-readme-stats.vercel.app/api?username=j3ffh95&show_icons=true&hide_border=true" />
 
 
-[website]: https://www.jeffhuisa.com/
+[website]: https://jeffhuisa.netlify.app/
 [twitter]: https://twitter.com/j3ffh95
 [instagram]: https://www.instagram.com/jhvalencia95/
 [linkedin]: https://www.linkedin.com/in/jeffhuisa/
