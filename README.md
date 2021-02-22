@@ -109,7 +109,9 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
+ :zap: Github Stats
 
+<a href="https://jeffhuisa.netlify.app/"><img height="137px" target="_blank" src="https://github-readme-stats.vercel.app/api?username=j3ffh95&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
 
 
 [website]: https://jeffhuisa.netlify.app/
