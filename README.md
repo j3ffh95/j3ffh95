@@ -2,8 +2,6 @@
 <h3 align="center">I'm a Software/Web Developer! 🤓 </h3>
 
 
-## I'm a Software/Web Developer!
-
 - 🔭 I’m currently working on my [Website][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
